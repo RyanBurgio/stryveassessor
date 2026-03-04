@@ -720,7 +720,7 @@ function CompanyInputPage({ onComplete }) {
       <div style={{ marginBottom: 56 }}>
         <div style={{ fontSize: 15, fontWeight: 700, letterSpacing: "0.15em", textTransform: "uppercase", color: T.orange, marginBottom: 18 }}>PE Marketing Due Diligence</div>
         <h1 style={{ fontSize: 48, fontWeight: 700, margin: "0 0 12px", letterSpacing: "-0.03em", lineHeight: 1.2, color: T.white }}>
-          Where is the marketing<br />leaving value on the table?
+          How much enterprise value is your marketing leaving behind?
         </h1>
         <p style={{ fontSize: 20, color: T.text, lineHeight: 1.85, maxWidth: 560 }}>
           Enter a portfolio company. We'll scan their digital presence, score their marketing maturity, and model the enterprise value impact of fixing it.
