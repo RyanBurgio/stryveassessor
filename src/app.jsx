@@ -1,4 +1,4 @@
-mport { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef } from "react";
 
 /* ═══════════════════════════════════════════════════════════════════
    STRYVE PE MARKETING VALUE MODEL — V6 (Big Screen Readability)
